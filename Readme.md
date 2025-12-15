@@ -15,7 +15,6 @@
 ## 📋 Table of Contents
 
 - [Description](#description)
-- [Features](#features)
 - [Technologies](#technologies)
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
