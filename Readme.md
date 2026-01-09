@@ -8,7 +8,7 @@
 
 **Frank Ramos**  
 📧 Contact: [GitHub Profile](https://github.com/frankrogerrm)  
-🔗 Repository: [https://github.com/frankrogerrm/Jobsity](https://github.com/frankrogerrm/Jobsity)
+🔗 Repository: [https://github.com/frankrogerrm/Chat.Net](https://github.com/frankrogerrm/Chat.Net/)
 
 ---
 
