@@ -135,8 +135,8 @@ Before running the application, ensure you have:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/frankrogerrm/Jobsity.git
-cd Jobsity
+git clone https://github.com/frankrogerrm/Chat.Net.git
+cd CHat.Net
 ```
 
 ### Step 2: Restore NuGet Packages
@@ -174,7 +174,7 @@ Ensure RabbitMQ is running:
 
 ### Configure Multiple Startup Projects
 
-1. Right-click on the **solution** (Jobsity) in Solution Explorer
+1. Right-click on the **solution** (Chat.Net) in Solution Explorer
 2. **Properties** → **Startup Project**
 3. Select **Multiple startup projects**
 4. Set both projects to **Start**:
@@ -273,7 +273,7 @@ Passed!  - Failed:     0, Passed:     9, Skipped:     0, Total:     9
 
 ## 📁 Project Structure
 ```
-Jobsity/
+Chat.Net/
 ├── ChatApp.Web/                    # Main web application
 │   ├── Components/
 │   │   ├── Account/               # Identity pages
@@ -435,13 +435,13 @@ This project was created as part of a technical challenge and is for demonstrati
 
 **Frank Ramos**
 - GitHub: [@frankrogerrm](https://github.com/frankrogerrm)
-- Repository: [Jobsity](https://github.com/frankrogerrm/Jobsity)
+- Repository: [Chat.Net](https://github.com/frankrogerrm/Chat.Net)
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Jobsity** for providing this interesting technical challenge
+- **Chat.Net** for providing this interesting technical challenge
 - **Stooq API** for stock data
 - **RabbitMQ** team for the excellent message broker
 - **.NET Community** for comprehensive documentation
